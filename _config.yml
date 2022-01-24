@@ -36,7 +36,7 @@ youtube_username                          :
 features                                  :
 
   - title                                 : Social Logins
-    description                           : Login mit Google, Apple möglich
+    description                           : Login mit Google oder Apple möglich
     fontawesome_icon_name                 : id-card
     
   - title                                 : Eigene Turniere
@@ -44,8 +44,13 @@ features                                  :
     fontawesome_icon_name                 : calendar
     
   - title                                 : Punkteberechnung
-    description                           : Erfolg automatisch nach Eintragung eines Ergebnisses
+    description                           : Erfolgt automatisch nach Eintragung eines Ergebnisses
     fontawesome_icon_name                 : trophy
+    
+  - title                                 : Vorlagen
+    description                           : Verwende eine der Vorlagen, die für größere Turniere verfügbar sind
+    fontawesome_icon_name                 : trophy
+    
 
 # Theme Settings
 topbar_color                              : "#000000"
