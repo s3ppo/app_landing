@@ -48,8 +48,12 @@ features                                  :
     fontawesome_icon_name                 : trophy
     
   - title                                 : Vorlagen
-    description                           : Verwende eine der Vorlagen die für größere Turniere verfügbar sind
-    fontawesome_icon_name                 : trophy
+    description                           : Verwende eine der Vorlagen für ein größeres Turnier
+    fontawesome_icon_name                 : copy
+    
+  - title                                 : Chat
+    description                           : Ein Gruppenchat steht euch zur Verfügung
+    fontawesome_icon_name                 : comment
     
 
 # Theme Settings
