@@ -80,3 +80,33 @@ Zu den im Rahmen der Bereitstellung des Hostingangebotes verarbeiteten Daten kö
 Weitere Hinweise zu Verarbeitungsprozessen, Verfahren und Diensten:
 
 - Erhebung von Zugriffsdaten und Logfiles: Wir selbst (bzw. unser Webhostinganbieter) erheben Daten zu jedem Zugriff auf den Server (sogenannte Serverlogfiles). Zu den Serverlogfiles können die Adresse und Name der abgerufenen Webseiten und Dateien, Datum und Uhrzeit des Abrufs, übertragene Datenmengen, Meldung über erfolgreichen Abruf, Browsertyp nebst Version, das Betriebssystem des Nutzers, Referrer URL (die zuvor besuchte Seite) und im Regelfall IP-Adressen und der anfragende Provider gehören. Die Serverlogfiles können zum einen zu Zwecken der Sicherheit eingesetzt werden, z.B., um eine Überlastung der Server zu vermeiden (insbesondere im Fall von missbräuchlichen Angriffen, sogenannten DDoS-Attacken) und zum anderen, um die Auslastung der Server und ihre Stabilität sicherzustellen; Löschung von Daten: Logfile-Informationen werden für die Dauer von maximal 30 Tagen gespeichert und danach gelöscht oder anonymisiert. Daten, deren weitere Aufbewahrung zu Beweiszwecken erforderlich ist, sind bis zur endgültigen Klärung des jeweiligen Vorfalls von der Löschung ausgenommen.
+
+## Registrierung, Anmeldung und Nutzerkonto
+Nutzer können ein Nutzerkonto anlegen. Im Rahmen der Registrierung werden den Nutzern die erforderlichen Pflichtangaben mitgeteilt und zu Zwecken der Bereitstellung des Nutzerkontos auf Grundlage vertraglicher Pflichterfüllung verarbeitet. Zu den verarbeiteten Daten gehören insbesondere die Login-Informationen (Nutzername, Passwort sowie eine E-Mail-Adresse).
+
+Im Rahmen der Inanspruchnahme unserer Registrierungs- und Anmeldefunktionen sowie der Nutzung des Nutzerkontos speichern wir die IP-Adresse und den Zeitpunkt der jeweiligen Nutzerhandlung. Die Speicherung erfolgt auf Grundlage unserer berechtigten Interessen als auch jener der Nutzer an einem Schutz vor Missbrauch und sonstiger unbefugter Nutzung. Eine Weitergabe dieser Daten an Dritte erfolgt grundsätzlich nicht, es sei denn, sie ist zur Verfolgung unserer Ansprüche erforderlich oder es besteht eine gesetzliche Verpflichtung hierzu.
+
+Die Nutzer können über Vorgänge, die für deren Nutzerkonto relevant sind, wie z.B. technische Änderungen, per E-Mail informiert werden.
+
+- Verarbeitete Datenarten: Bestandsdaten (z.B. Namen, Adressen); Kontaktdaten (z.B. E-Mail, Telefonnummern); Inhaltsdaten (z.B. Eingaben in Onlineformularen); Meta-/Kommunikationsdaten (z.B. Geräte-Informationen, IP-Adressen).
+- Betroffene Personen: Nutzer (z.B. Webseitenbesucher, Nutzer von Onlinediensten).
+- Zwecke der Verarbeitung: Erbringung vertraglicher Leistungen und Kundenservice; Sicherheitsmaßnahmen; Verwaltung und Beantwortung von Anfragen.
+- Rechtsgrundlagen: Vertragserfüllung und vorvertragliche Anfragen (Art. 6 Abs. 1 S. 1 lit. b. DSGVO); Berechtigte Interessen (Art. 6 Abs. 1 S. 1 lit. f. DSGVO).
+
+Weitere Hinweise zu Verarbeitungsprozessen, Verfahren und Diensten:
+
+- Registrierung mit Pseudonymen: Nutzer dürfen statt Klarnamen Pseudonyme als Nutzernamen verwenden.
+- Löschung von Daten nach Kündigung: Wenn Nutzer ihr Nutzerkonto gekündigt haben, werden deren Daten im Hinblick auf das Nutzerkonto, vorbehaltlich einer gesetzlichen Erlaubnis, Pflicht oder Einwilligung der Nutzer, gelöscht.
+- Keine Aufbewahrungspflicht für Daten: Es obliegt den Nutzern, ihre Daten bei erfolgter Kündigung vor dem Vertragsende zu sichern. Wir sind berechtigt, sämtliche während der Vertragsdauer gespeicherte Daten des Nutzers unwiederbringlich zu löschen.
+
+## Community Funktionen
+Die von uns bereitgestellten Community Funktionen erlauben es Nutzern miteinander in Konversationen oder sonst miteinander in einen Austausch zu treten. Hierbei bitten wir zu beachten, dass die Nutzung der Communityfunktionen nur unter Beachtung der geltenden Rechtslage, unserer Bedingungen und Richtlinien sowie der Rechte anderer Nutzer und Dritter gestattet ist.
+
+Verarbeitete Datenarten: Nutzungsdaten (z.B. besuchte Webseiten, Interesse an Inhalten, Zugriffszeiten); Meta-/Kommunikationsdaten (z.B. Geräte-Informationen, IP-Adressen).
+- Betroffene Personen: Nutzer (z.B. Webseitenbesucher, Nutzer von Onlinediensten).
+- Zwecke der Verarbeitung: Erbringung vertraglicher Leistungen und Kundenservice; Sicherheitsmaßnahmen.
+- Rechtsgrundlagen: Vertragserfüllung und vorvertragliche Anfragen (Art. 6 Abs. 1 S. 1 lit. b. DSGVO); Berechtigte Interessen (Art. 6 Abs. 1 S. 1 lit. f. DSGVO).
+
+Weitere Hinweise zu Verarbeitungsprozessen, Verfahren und Diensten:
+
+- Schutz eigener Daten: Die Nutzer entscheiden selbst, welche Daten sie über sich innerhalb unseres Onlineangebotes preisgeben. Zum Beispiel, wenn Nutzer Angaben zur eigenen Person machen oder an Konversationen teilnehmen. Wir bitten die Nutzer ihre Daten zu schützen und persönliche Daten nur mit Bedacht und nur im erforderlichen Umfang zu veröffentlichen. Insbesondere bitten wir die Nutzer zu beachten, dass sie die Zugangsdaten ganz besonders schützen und sichere Passwörter verwenden müssen (d.h. vor allem möglichst lange und zufällige Zeichenkombinationen).
