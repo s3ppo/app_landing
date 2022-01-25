@@ -55,6 +55,10 @@ features                                  :
     description                           : Ein Gruppenchat steht euch zur Verfügung
     fontawesome_icon_name                 : comment
     
+  - title                                 : Benachrichtigungen
+    description                           : Lass dich erinnern rechtzeitig einen Tipp abzugeben
+    fontawesome_icon_name                 : bell
+    
 
 # Theme Settings
 topbar_color                              : "#000000"
