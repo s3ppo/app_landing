@@ -127,7 +127,7 @@ Mit der Zustimmung der Nutzer, können wir den Nutzern so genannte "Push-Benachr
 Um sich für die Push-Nachrichten anzumelden, müssen Nutzer die Abfrage ihres Browsers bzw. Endgerätes zum Erhalt der Push-Nachrichten bestätigen. Dieser Zustimmungsprozess wird dokumentiert und gespeichert. Die Speicherung ist erforderlich, um zu erkennen, ob Nutzer dem Empfang der Push-Nachrichten zugestimmt haben.
 
 - Zwecke der Verarbeitung: Erbringung vertraglicher Leistungen und Kundenservice.
-- Rechtsgrundlagen: Einwilligung (Art. 6 Abs. 1 S.blockiert gesperrt blockiert gesperrt blockiert gesperrt ); Vertragserfüllung und vorvertragliche Anfragen (Art. 6 Abs. 1 S.blockiert gesperrt gesperrt blockiert geschützt gesperrt ).
+- Rechtsgrundlagen: Einwilligung (Art. 6 Abs. 1 ); Vertragserfüllung und vorvertragliche Anfragen (Art. 6 Abs. 1 ).
 
 ## Newsletter und elektronische Benachrichtigungen
 Wir versenden Newsletter, E-Mails und weitere elektronische Benachrichtigungen (nachfolgend "Newsletter“) nur mit der Einwilligung der Empfänger oder einer gesetzlichen Erlaubnis. Sofern im Rahmen einer Anmeldung zum Newsletter dessen Inhalte konkret umschrieben werden, sind sie für die Einwilligung der Nutzer maßgeblich. Im Übrigen enthalten unsere Newsletter Informationen zu unseren Leistungen und uns.
