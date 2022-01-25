@@ -110,3 +110,5 @@ Verarbeitete Datenarten: Nutzungsdaten (z.B. besuchte Webseiten, Interesse an In
 Weitere Hinweise zu Verarbeitungsprozessen, Verfahren und Diensten:
 
 - Schutz eigener Daten: Die Nutzer entscheiden selbst, welche Daten sie über sich innerhalb unseres Onlineangebotes preisgeben. Zum Beispiel, wenn Nutzer Angaben zur eigenen Person machen oder an Konversationen teilnehmen. Wir bitten die Nutzer ihre Daten zu schützen und persönliche Daten nur mit Bedacht und nur im erforderlichen Umfang zu veröffentlichen. Insbesondere bitten wir die Nutzer zu beachten, dass sie die Zugangsdaten ganz besonders schützen und sichere Passwörter verwenden müssen (d.h. vor allem möglichst lange und zufällige Zeichenkombinationen).
+
+<a href="https://datenschutz-generator.de/" title="Rechtstext von Dr. Schwenke - für weitere Informationen bitte anklicken." target="_blank" rel="noopener noreferrer nofollow"><img src="https://datenschutz-generator.de/wp-content/plugins/ts-dsg/images/dsg-seal/dsg-seal-pp-de.png" alt="Rechtstext von Dr. Schwenke - für weitere Informationen bitte anklicken." width="250" height="250"></a>
